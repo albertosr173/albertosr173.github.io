@@ -2001,12 +2001,12 @@ input, select, textarea {
 
 		.wrapper.style2 {
 			background-color: #c9c9c9;
-			text-shadow: 0.5px 0.5px 0px rgb(77, 77, 77);
+			text-shadow: 0px 0px 0px rgb(0, 0, 0);
 		}
 
 		.wrapper.style3 {
 			background-color: #808080;
-			text-shadow: 1px 1px 0px rgb(161, 161, 161);
+			text-shadow: 0px 0px 0px rgb(0, 0, 0);
 		}
 
 		.wrapper.style4 {
